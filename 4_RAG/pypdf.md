@@ -1,0 +1,2 @@
+https://docs.langchain.com/oss/python/integrations/document_loaders/pypdfloader
+
